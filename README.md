@@ -85,6 +85,3 @@ El proyecto está diseñado con una arquitectura por capas:
 | POST   | `/responses`              | Publicar una respuesta en un tema.     |
 
 ---
-
-
-# Challenge-ForoHub-AluraLatam
